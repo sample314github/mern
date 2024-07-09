@@ -2,9 +2,9 @@
   "name": "mern",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type":"commonjs",
   "scripts": {
-    "start":"nodeman index.js"
+    "start":" nodeman.js"
   },
   "keywords": [],
   "author": "",
